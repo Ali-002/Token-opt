@@ -7,3 +7,5 @@
 - If context is missing, ask for the specific file or log instead of scanning broadly.
 - do not scan a full repo, always ask about the target files.
 - Prefer safe defaults, explicit error handling, and reversible changes.
+
+TEEEEEST
